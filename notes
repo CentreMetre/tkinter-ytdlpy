@@ -1,0 +1,6 @@
+youtube url params:
+&t=0 - This is the start at time.
+&list=abcABC123 - This is a playlist.
+&index=0 - This is the index of a playlist. 1 indexed.
+
+Ask if playlist is wanted, maybe try and do certain vids from playlist.
