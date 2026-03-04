@@ -52,10 +52,3 @@ submit_btn = tk.Button(
 submit_btn.pack()
 
 root.mainloop()
-
-
-# Use the API
-
-
-
-print("done")
